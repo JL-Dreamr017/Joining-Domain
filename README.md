@@ -1,5 +1,3 @@
-# Joining-Domain
-
 <h1>Adding a computer join domain</h1>
 
 <ul>
