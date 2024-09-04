@@ -2,6 +2,9 @@
 
 <h1>Adding a computer join domain</h1>
 
-<p>This process wasn't difficult I change domain controller, Windows Server 2022 and client 1, Windows 10 pro IP setting.
-After changing in network adapter, the client DHCP detects Windows Server 2022 and add client 1 part of the its domain. 
-It will show up under Active Directory: Users and Computers.</p>
+<li>
+  <ul>Windows Server 2022: Active Directory</ul>
+</li>
+
+<p>After intalling Active Directory Domain completed, I changed network adapter settings in Domain Controller (VM1) and Desktop 1 (VM2).
+I went to WIndows setting and clicked on rename PC Advanced. I entered HuskyTechSupport.local and enter Tom Bruce and password.</p>
